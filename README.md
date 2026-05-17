@@ -2,7 +2,6 @@
 
 ![AWS](https://imgur.com/Hk28ffE.png)
 
-**In this blog, we are going to deploy a Java Web app on a Docker Container built on an EC2 Instance through the use of Jenkins.**
 
 ### Agenda
 
@@ -22,12 +21,4 @@
 * Familiarity with Docker and Git
 
 
----
 
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
